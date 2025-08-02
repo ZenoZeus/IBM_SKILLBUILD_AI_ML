@@ -1,0 +1,41 @@
+Technology  used
+ Framework : LangGraph
+ Architecture : ReAct
+ IBM cloud lite services
+ Natural Language Processing (NLP)
+ Retrieval Augmented Generation (RAG)
+ IBM Granite model
+
+
+IBM cloud services used
+  IBM Cloud Watsonx AI Studio
+  IBM Cloud Watsonx AI runtime
+  IBM Cloud Agent Lab
+  IBM Granite foundation model
+
+Wow factors
+ AI Research Assistant: Revolutionizing Academic Discovery and Collaboration
+ This intelligent research assistant dramatically shortens the time spent on literature reviews, elevates the quality of academic insights, 
+and guides early-stage researchers toward promising directions. By making scholarly knowledge more discoverable, contextual, and 
+actionable, it also encourages meaningful interdisciplinary collaboration.
+ Key Features
+ Semantic Search
+ Intuitively searches across research papers, journals, and datasets using meaning-based queries rather than simple keywords.
+ Automatic Summarization
+ Instantly generates concise summaries of selected papers to help users grasp key findings without reading full texts.
+ Citation and Influence Analysis
+ Tracks citations to map the influence and evolution of ideas over time.
+ Smart Paper Recommendations
+ Suggests relevant research papers tailored to a user's current topic or area of interest.
+ Trend Analysis
+ Analyzes historical data to uncover emerging trends, keyword growth, and shifts in research focus.
+ Collaboration Mapping
+ Identifies potential collaborators, co-authors, or institutions working on similar topics to foster academic partnerships
+
+Conclusion
+ The agent can generate reports, suggest hypotheses, 
+and even draft sections of research papers.
+ It saves time by automating repetitive tasks like citation 
+management and data extraction.
+  Research Agents enhance efficiency, accuracy, and 
+innovation in both academic and industrial R&D.
